@@ -60,6 +60,9 @@ I also have other projects here, some not necessarily game related, that you can
 </div>
 
 # 
+[![Contribution Snake](https://raw.githubusercontent.com/Vini-Pasquini/Vini-Pasquini/snake/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+
+#
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vini-Pasquini&theme=vue-dark&date_format=j%20M%5B%20Y%5D&card_width=771&card_height=200)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Vini-Pasquini&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=Vini-Pasquini&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vue-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Vini-Pasquini&layout=compact&hide_title=true&langs_count=20&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Vini-Pasquini&layout=compact&hide_title=true&langs_count=20&theme=vue-dark)
